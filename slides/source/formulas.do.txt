@@ -1,5 +1,5 @@
 TITLE: Ch.1: Computing with formulas
-AUTHOR: Hans Petter Langtangen at Simula Research Laboratory & University of Oslo, Dept. of Informatics
+AUTHOR: Hans P Langtangen at Simula Research Laboratory & University of Oslo, Dept. of Informatics
 DATE: today
 
 
